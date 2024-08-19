@@ -1,4 +1,4 @@
-from xml import *
+from core_xml import *
 
 def main():
     label = Label(
